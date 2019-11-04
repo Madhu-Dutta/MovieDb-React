@@ -1,0 +1,7 @@
+export const movies = [
+    {id: 0, posterSrc: 'https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_UY209_CR0,0,140,209_AL_.jpg', title: "Doctor Sleep(2019)", overview: "1st movie overview"},
+    {id: 1, posterSrc: 'https://m.media-amazon.com/images/M/MV5BNTQ4ZmY0NjgtYzVhNy00NzhiLTk3YTYtNzM1MTdjM2VhZDA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg', title: "Last Christmas(2019)", overview: "2nd movie overview"},
+    {id: 2, posterSrc: 'https://m.media-amazon.com/images/M/MV5BMGVkNGMyMGEtMDNmOC00ZGYyLWEzOTItODdjMzRlZTk4MzUwXkEyXkFqcGdeQXVyODM2Njg2OTg@._V1_UY209_CR13,0,140,209_AL_.jpg', title: "Mid Way(2019)", overview: "3rd movie overview"},
+    {id: 3, posterSrc: 'https://m.media-amazon.com/images/M/MV5BZWQ5YThjZjAtNWM3ZC00MDJjLWIzNDktY2Y2Y2FmMTFiNWJmXkEyXkFqcGdeQXVyMTA2MDQ3MTQ3._V1_UY209_CR0,0,140,209_AL_.jpg', title: "Honey Boy(2019)", overview: "4th movie overview"},
+    {id: 4, posterSrc: 'https://m.media-amazon.com/images/M/MV5BZGQxMzIzMmEtOTEzYi00OTUyLWJkZTUtY2VkOGZkMWY1ODU3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX140_CR0,0,140,209_AL_.jpg', title: "King Maker(2019)", overview: "5th movie overview"}
+]

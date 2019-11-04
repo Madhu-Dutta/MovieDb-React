@@ -1,0 +1,16 @@
+.table-contents{
+    background-Color: #000;
+    display: block;
+    color: #fff;
+    padding-Left: 2%;
+    padding-Top: 2%;
+    padding-Bottom: 2%;
+}
+.search-bar{
+    font-size: 24;
+    display: block;
+    width: 100%;
+    padding-bottom: 2%;
+    padding-top: 2;
+    padding-left: 12%;
+}
